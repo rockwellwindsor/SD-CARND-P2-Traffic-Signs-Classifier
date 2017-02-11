@@ -1,0 +1,3 @@
+model_checkpoint_path: "Additional_Data_Model"
+all_model_checkpoint_paths: "Trained_Model"
+all_model_checkpoint_paths: "Additional_Data_Model"
